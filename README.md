@@ -1,4 +1,4 @@
-# Hello👋 This is Shruthi! 
+# Hello👋 This is Shruthi.. 
 ![Wavy Hi!](https://example.com/path/to/wavy-hi.gif)
 
 

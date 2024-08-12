@@ -14,10 +14,9 @@
 ---
  💻 Tech Stack :
  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=%23EE0000)![Python](https://img.shields.io/badge/Python-%231A1918.svg?style=for-the-badge&logo=python&logoColor=%23FFD43B)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%231A1918.svg?style=for-the-badge&logo=machine-learning&logoColor=%23F7B400)
-![Gen AI](https://img.shields.io/badge/Gen%20AI-%231A1918.svg?style=for-the-badge&logo=ai&logoColor=%23FF5722)
-
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)![Python](https://img.shields.io/badge/Python-%233C8DBC.svg?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%233B76E3.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Gen AI](https://img.shields.io/badge/Gen%20AI-%23FF5722.svg?style=for-the-badge&logo=ai&logoColor=white)
 ---
  ✍️ My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
